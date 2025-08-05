@@ -103,9 +103,6 @@ Classify Airbnb listings as **high booking rate** or not, based on listing-level
 ## 🚀 How to Run
 
 1. Clone this repository  
-2. Install dependencies with:  
-   ```bash
-   pip install -r requirements.txt
 
 👨‍💻 Contributors
 	•	Chanamallu Venkata Chandrasekhar Vinay
